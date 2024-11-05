@@ -39,3 +39,9 @@ ___
 
 *The enhanced Spotify app concept integrates voice assistance, AI-powered mood sensing, and a built-in Shazam-like feature for a highly personalized and interactive music experience.
 With voice assistance, users can search for music hands-free, using commands like "play something relaxing" or "find upbeat songs from the '90s." The AI-powered mood-sensing feature would then personalize playlists based on the user's current mood, heart rate (integrated through wearables), or contextual factors like weather and time of day—providing energizing tracks for a workout, calming music for a quiet evening, or cheerful tunes on a sunny day. Finally, a Shazam-like feature built into the app would allow users to identify songs playing around them instantly, adding them directly to their playlists. Together, these features would make Spotify feel like a highly adaptive and intuitive music companion, adjusting effortlessly to users' preferences and surroundings.*
+
+___
+
+<h3>Prework GIF<h3>
+
+![](https://i.imgur.com/pttK0hI.gif)
